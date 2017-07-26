@@ -1,3 +1,6 @@
 [submodule "docs"]
 	path = docs
 	url = https://github.com/QuantiModo/docs.git
+[submodule "swagger-editor"]
+	path = swagger-editor
+	url = https://github.com/swagger-api/swagger-editor.git
